@@ -1,0 +1,18 @@
+.dog-image {
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 3%;
+}
+
+.Dog {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.title {
+    margin-left: 43%;
+    font-family: 'Poppins', sans-serif;
+}
